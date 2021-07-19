@@ -1,0 +1,10 @@
+svg {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+text {
+  white-space: pre-line;
+}
